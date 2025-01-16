@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Flutter, Dart, JavaScript, ORM
 
-- 📫 How to reach me **nitinanmainoh@gmail.com**
+- 📫 Reach me at **nitinanmainoh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
