@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitinan Mainoh</h1>
-- 🌱 I’m currently learning **Flutter, Dart, JavaScript, ORM**
+- 🌱 I’m currently learning Flutter, Dart, JavaScript, ORM
 
 - 📫 How to reach me **nitinanmainoh@gmail.com**
 
